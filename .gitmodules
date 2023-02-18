@@ -1,0 +1,3 @@
+[submodule "cachelib"]
+	path = cachelib
+	url = https://github.com/yusufadell/cachelib
